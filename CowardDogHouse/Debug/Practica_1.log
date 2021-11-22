@@ -1,0 +1,14 @@
+﻿  main_proyecto.cpp
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Practica_1\main_proyecto.cpp(252,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Practica_1\main_proyecto.cpp(222,38): warning C4101: 'nrChannels': variable local sin referencia
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Practica_1\main_proyecto.cpp(222,9): warning C4101: 'textureWidth': variable local sin referencia
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Practica_1\main_proyecto.cpp(224,20): warning C4101: 'image': variable local sin referencia
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Practica_1\main_proyecto.cpp(222,23): warning C4101: 'textureHeight': variable local sin referencia
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Practica_1\main_proyecto.cpp(586,20): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'double'
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Practica_1\main_proyecto.cpp(669,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Practica_1\main_proyecto.cpp(670,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Practica_1\main_proyecto.cpp(674,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Practica_1\main_proyecto.cpp(675,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Practica_1\main_proyecto.cpp(677,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Practica_1\main_proyecto.cpp(678,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Practica_1.vcxproj -> D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\ENTREGA PROYECTO\313291388_PROYECTO_GPO12\Practica_1\Debug\Practica_1.exe
