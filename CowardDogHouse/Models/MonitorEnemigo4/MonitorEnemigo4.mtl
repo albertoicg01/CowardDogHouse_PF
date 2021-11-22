@@ -1,0 +1,4405 @@
+newmtl Chair:Chair:Chair:lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoBlack.png
+Ni 1.00
+newmtl Chair:Chair:Chair:lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoBlue.png
+Ni 1.00
+newmtl Chair:Chair:Chair:lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl Chair:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1.png
+Ni 1.00
+newmtl Chair:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tapete.png
+Ni 1.00
+newmtl Chair:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl Chair:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl Chair:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoBlue.png
+Ni 1.00
+newmtl Chair:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl Chair:lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoBlue.png
+Ni 1.00
+newmtl Chair:lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl DesktopPC:Material_005
+illum 4
+Kd 0.13 0.13 0.13
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl DesktopPC:Material_008
+illum 4
+Kd 0.04 0.04 0.04
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl DesktopPC:Material_010
+illum 4
+Kd 0.80 0.80 0.80
+Ka 1.00 1.00 1.00
+Tf 0.25 0.25 0.25
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl DesktopPC:Monitor
+illum 4
+Kd 0.01 0.01 0.01
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl DesktopPC:None
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.80 0.80 0.80
+Ns 0.00
+newmtl FinalCaraje11:FinalCaraje13:FinalCaraje4:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl FinalCaraje11:FinalCaraje13:FinalCaraje4:pasted__pasted__pasted__lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TelevisonColoroclu.jpeg
+Ni 1.00
+newmtl FinalCaraje11:FinalCaraje13:FinalCaraje4:pasted__pasted__pasted__lambert42SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SILLONCOLORoclu.jpeg
+Ni 1.00
+newmtl FinalCaraje11:FinalCaraje13:FinalCaraje4:pasted__pasted__pasted__lambert43SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SillaColoroclu.jpeg
+Ni 1.00
+newmtl FinalCaraje13:FinalCaraje13:FinalCaraje4:pasted__pasted__pasted__lambert50SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CortipuertaCOLORoclu.jpg
+Ni 1.00
+newmtl FinalCaraje14:FinalCaraje13:FinalCaraje4:pasted__pasted__pasted__lambert50SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CortipuertaCOLORoclu.jpg
+Ni 1.00
+newmtl FinalCaraje15:FinalCaraje13:FinalCaraje4:pasted__pasted__pasted__lambert50SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CortipuertaCOLORoclu.jpg
+Ni 1.00
+newmtl FinalCaraje16:FinalCaraje13:FinalCaraje4:pasted__pasted__pasted__lambert48SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3cosasColoroclu.jpg
+Ni 1.00
+newmtl FinalCaraje24:FinalCaraje13:FinalCaraje4:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl bodySG3
+illum 4
+Kd 0.87 0.42 0.69
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.01 0.01
+Ns 34.00
+newmtl bodySG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 23.00
+newmtl bodySG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 23.00
+newmtl eyesSG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl justo_obj:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Eustice_Low_Body_BaseColor.png
+Ni 1.00
+newmtl justo_obj:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Eustice_Low_Head_BaseColor.png
+Ni 1.00
+newmtl justo_obj:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Eustice_Low_Head_BaseColor.png
+Ni 1.00
+newmtl justo_obj:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Eustice_Low_Head_BaseColor.png
+Ni 1.00
+newmtl lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl lambert38SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl lambert57SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura_2.jpg
+Ni 1.00
+newmtl lambert64SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl lambert66SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl lambert69SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl lambert70SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl lambert72SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoBlue.png
+Ni 1.00
+newmtl lambert73SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoBlue.png
+Ni 1.00
+newmtl lambert76SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl lambert92SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl lambert93SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl lambert94SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl lambert95SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl lambert96SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl lambert100SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd desierto_texture.png
+Ni 1.00
+newmtl lambert101SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl lambert105SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoBlue.png
+Ni 1.00
+newmtl lambert106SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura_2.jpg
+Ni 1.00
+newmtl lambert107SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura_2.jpg
+Ni 1.00
+newmtl lambert108SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl lambert112SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl lambert116SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl lambert117SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl lambert118SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl lambert124SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl lambert125SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl lambert127SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl lambert135SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Enemigo4.jpg
+Ni 1.00
+newmtl murcielago:lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl murcielago:lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl murcielago1:lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago1:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl murcielago2:lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago2:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl murcielago3:lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago3:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl murcielago4:lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago4:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl murcielago5:lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago5:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl murcielago6:lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago6:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl murcielago7:lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago7:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl murcielago8:lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago8:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl murcielago9:lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago9:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl murcielago10:lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago10:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl murcielago11:lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl murcielago11:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl parte_superior:lambert53SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:lambert58SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:lambert59SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:lambert78SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl parte_superior:lambert79SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl parte_superior:lambert80SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl parte_superior:lambert81SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl parte_superior:lambert82SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl parte_superior:lambert83SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl parte_superior:lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl parte_superior:lambert87SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl parte_superior:lambert88SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl parte_superior:lambert89SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl parte_superior:pasted__lambert55SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__lambert55SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__lambert55SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__lambert55SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__lambert55SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__lambert55SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__lambert55SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__lambert55SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__lambert55SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__lambert55SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__pasted__lambert55SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__pasted__lambert55SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__pasted__lambert55SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__pasted__lambert55SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__pasted__lambert55SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__pasted__pasted__lambert55SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__pasted__pasted__lambert55SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__pasted__pasted__lambert55SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__pasted__pasted__lambert55SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__pasted__pasted__lambert55SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__pasted__pasted__pasted__lambert55SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl parte_superior:pasted__pasted__pasted__pasted__pasted__pasted__lambert55SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ParedesColoroclu.jpg
+Ni 1.00
+newmtl pasted__lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__lambert34SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__lambert38SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__lambert38SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__lambert53SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__lambert58SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__lambert59SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__lambert61SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__lambert64SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__lambert64SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__lambert66SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl pasted__lambert66SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl pasted__lambert76SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl pasted__lambert78SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl pasted__lambert79SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl pasted__lambert80SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl pasted__lambert81SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl pasted__lambert82SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl pasted__lambert83SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl pasted__lambert87SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl pasted__lambert88SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl pasted__lambert89SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl pasted__lambert91SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura_2.jpg
+Ni 1.00
+newmtl pasted__lambert94SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl pasted__lambert101SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__lambert105SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoBlue.png
+Ni 1.00
+newmtl pasted__lambert111SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl pasted__lambert113SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl pasted__lambert115SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl pasted__lambert119SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje_ojos.png
+Ni 1.00
+newmtl pasted__lambert120SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piel_coraje.png
+Ni 1.00
+newmtl pasted__lambert125SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl pasted__lambert125SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert23SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__lambert23SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__lambert30SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__pasted__lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert33SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert34SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert38SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__pasted__lambert44SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd EscaleraColoroclu.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert46SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd RELOJCOLORoclu.jpeg
+Ni 1.00
+newmtl pasted__pasted__lambert55SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert61SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__lambert64SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert64SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert64SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert66SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl pasted__pasted__lambert76SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl pasted__pasted__lambert94SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert114SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl pasted__pasted__lambert117SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nariz_coraje.png
+Ni 1.00
+newmtl pasted__pasted__lambert125SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert125SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert125SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG35
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG37
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG39
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG40
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert30SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert30SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert30SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert33SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert33SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert33SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert33SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert45SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BARANDALColoroclu.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert55SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert55SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert55SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert55SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert61SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert64SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert64SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert64SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert64SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert66SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoTextura.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert76SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd molinoAspas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert94SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert125SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert125SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert125SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG40
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG42
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG43
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG45
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG46
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG47
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG48
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG49
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG50
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG51
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert30SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert30SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert30SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert33SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert33SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert33SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert33SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert33SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert55SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert55SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert55SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert55SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert55SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert61SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert64SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert64SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert64SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert64SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert64SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert64SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert125SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd librero.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG42
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG43
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG45
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG46
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG47
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG48
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG49
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG50
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG51
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG52
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG53
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert23SG54
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert30SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert30SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert33SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert33SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert55SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert55SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert55SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert55SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert55SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert64SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert64SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert64SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert64SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert64SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert64SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert64SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert64SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert64SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG40
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG42
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG43
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG45
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG46
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG47
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG48
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG49
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG50
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG51
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG52
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG53
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG54
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG55
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG56
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert30SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd window_texture.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert33SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert33SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert33SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert33SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert33SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert55SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert55SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert55SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert55SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert55SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert64SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert64SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert64SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert64SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert64SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert64SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG37
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG39
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG42
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG43
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG45
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG46
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG47
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG48
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG49
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG50
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG52
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG53
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert33SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert33SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert55SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert55SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert64SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert64SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert64SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG35
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG39
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG40
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG42
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG43
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG48
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG49
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG50
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert33SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert64SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert64SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG35
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG39
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG42
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG43
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert64SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casa_textura.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert23SG39
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marcos_ventanas.png
+Ni 1.00
+newmtl pupilsSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 59.36
